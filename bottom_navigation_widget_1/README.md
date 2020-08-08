@@ -1,4 +1,4 @@
-# flutter_demo_1
+# bottom_navigation_widget
 
 A new Flutter project.
 
