@@ -14,12 +14,18 @@
 ./bottom_navigation_widget_1/buildlog/
 ./bottom_navigation_widget_1/history
 ./bottom_navigation_widget_1/svn/
+./bottom_navigation_widget_2/DS_Store
+./bottom_navigation_widget_2/atom/
+./bottom_navigation_widget_2/buildlog/
+./bottom_navigation_widget_2/history
+./bottom_navigation_widget_2/svn/
 # IntelliJ related
 *.iml
 *.ipr
 *.iws
 .idea/
 ./bottom_navigation_widget_1/idea/
+./bottom_navigation_widget_2/idea/
 
 # The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
@@ -44,9 +50,18 @@
 ./bottom_navigation_widget_1/pub/
 ./bottom_navigation_widget_1/build/
 
+./bottom_navigation_widget_2/dart_tool/
+./bottom_navigation_widget_2/flutter-plugins
+./bottom_navigation_widget_2/flutter-plugins-dependencies
+./bottom_navigation_widget_2/packages
+./bottom_navigation_widget_2/pub-cache/
+./bottom_navigation_widget_2/pub/
+./bottom_navigation_widget_2/build/
+
 # Web related
 lib/generated_plugin_registrant.dart
 ./bottom_navigation_widget_1/lib/generated_plugin_registrant.dart
+./bottom_navigation_widget_2/lib/generated_plugin_registrant.dart
 
 # Symbolication related
 app.*.symbols
