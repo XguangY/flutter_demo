@@ -25,6 +25,12 @@
 ./flutter_router_animation_3/buildlog/
 ./flutter_router_animation_3/history
 ./flutter_router_animation_3/svn/
+
+./flutter_backdrop_4/DS_Store
+./flutter_backdrop_4/atom/
+./flutter_backdrop_4/buildlog/
+./flutter_backdrop_4/history
+./flutter_backdrop_4/svn/
 # IntelliJ related
 *.iml
 *.ipr
@@ -33,6 +39,7 @@
 ./bottom_navigation_widget_1/idea/
 ./bottom_navigation_widget_2/idea/
 ./flutter_router_animation_3/idea/
+./flutter_backdrop_4/idea/
 
 # The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
@@ -72,11 +79,20 @@
 ./flutter_router_animation_3/pub-cache/
 ./flutter_router_animation_3/pub/
 ./flutter_router_animation_3/build/
+
+./flutter_backdrop_4/dart_tool/
+./flutter_backdrop_4/flutter-plugins
+./flutter_backdrop_4/flutter-plugins-dependencies
+./flutter_backdrop_4/packages
+./flutter_backdrop_4/pub-cache/
+./flutter_backdrop_4/pub/
+./flutter_backdrop_4/build/
 # Web related
 lib/generated_plugin_registrant.dart
 ./bottom_navigation_widget_1/lib/generated_plugin_registrant.dart
 ./bottom_navigation_widget_2/lib/generated_plugin_registrant.dart
 ./flutter_router_animation_3/lib/generated_plugin_registrant.dart
+./flutter_backdrop_4/lib/generated_plugin_registrant.dart
 
 # Symbolication related
 app.*.symbols
