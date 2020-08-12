@@ -14,6 +14,7 @@
 ./bottom_navigation_widget_1/buildlog/
 ./bottom_navigation_widget_1/history
 ./bottom_navigation_widget_1/svn/
+
 ./bottom_navigation_widget_2/DS_Store
 ./bottom_navigation_widget_2/atom/
 ./bottom_navigation_widget_2/buildlog/
@@ -31,6 +32,13 @@
 ./flutter_backdrop_4/buildlog/
 ./flutter_backdrop_4/history
 ./flutter_backdrop_4/svn/
+
+./flutter_keep_alive_5/DS_Store
+./flutter_keep_alive_5/atom/
+./flutter_keep_alive_5/buildlog/
+./flutter_keep_alive_5/history
+./flutter_keep_alive_5/svn/
+
 # IntelliJ related
 *.iml
 *.ipr
@@ -40,6 +48,7 @@
 ./bottom_navigation_widget_2/idea/
 ./flutter_router_animation_3/idea/
 ./flutter_backdrop_4/idea/
+./flutter_keep_alive_5/idea/
 
 # The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
@@ -87,12 +96,21 @@
 ./flutter_backdrop_4/pub-cache/
 ./flutter_backdrop_4/pub/
 ./flutter_backdrop_4/build/
+
+./flutter_keep_alive_5/dart_tool/
+./flutter_keep_alive_5/flutter-plugins
+./flutter_keep_alive_5/flutter-plugins-dependencies
+./flutter_keep_alive_5/packages
+./flutter_keep_alive_5/pub-cache/
+./flutter_keep_alive_5/pub/
+./flutter_keep_alive_5/build/
 # Web related
 lib/generated_plugin_registrant.dart
 ./bottom_navigation_widget_1/lib/generated_plugin_registrant.dart
 ./bottom_navigation_widget_2/lib/generated_plugin_registrant.dart
 ./flutter_router_animation_3/lib/generated_plugin_registrant.dart
 ./flutter_backdrop_4/lib/generated_plugin_registrant.dart
+./flutter_keep_alive_5/lib/generated_plugin_registrant.dart
 
 # Symbolication related
 app.*.symbols
