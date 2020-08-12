@@ -39,6 +39,12 @@
 ./flutter_keep_alive_5/history
 ./flutter_keep_alive_5/svn/
 
+./flutter_search_bar_6/DS_Store
+./flutter_search_bar_6/atom/
+./flutter_search_bar_6/buildlog/
+./flutter_search_bar_6/history
+./flutter_search_bar_6/svn/
+
 # IntelliJ related
 *.iml
 *.ipr
@@ -49,6 +55,7 @@
 ./flutter_router_animation_3/idea/
 ./flutter_backdrop_4/idea/
 ./flutter_keep_alive_5/idea/
+./flutter_search_bar_6/idea/
 
 # The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
@@ -104,6 +111,14 @@
 ./flutter_keep_alive_5/pub-cache/
 ./flutter_keep_alive_5/pub/
 ./flutter_keep_alive_5/build/
+
+./flutter_search_bar_6/dart_tool/
+./flutter_search_bar_6/flutter-plugins
+./flutter_search_bar_6/flutter-plugins-dependencies
+./flutter_search_bar_6/packages
+./flutter_search_bar_6/pub-cache/
+./flutter_search_bar_6/pub/
+./flutter_search_bar_6/build/
 # Web related
 lib/generated_plugin_registrant.dart
 ./bottom_navigation_widget_1/lib/generated_plugin_registrant.dart
@@ -111,6 +126,7 @@ lib/generated_plugin_registrant.dart
 ./flutter_router_animation_3/lib/generated_plugin_registrant.dart
 ./flutter_backdrop_4/lib/generated_plugin_registrant.dart
 ./flutter_keep_alive_5/lib/generated_plugin_registrant.dart
+./flutter_search_bar_6/lib/generated_plugin_registrant.dart
 
 # Symbolication related
 app.*.symbols
