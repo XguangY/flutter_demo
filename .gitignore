@@ -45,6 +45,18 @@
 ./flutter_search_bar_6/history
 ./flutter_search_bar_6/svn/
 
+./flutter_gesturedetector_7/DS_Store
+./flutter_gesturedetector_7/atom/
+./flutter_gesturedetector_7/buildlog/
+./flutter_gesturedetector_7/history
+./flutter_gesturedetector_7/svn/
+
+./flutter_cnimationcontroller_11/DS_Store
+./flutter_cnimationcontroller_11/atom/
+./flutter_cnimationcontroller_11/buildlog/
+./flutter_cnimationcontroller_11/history
+./flutter_cnimationcontroller_11/svn/
+
 # IntelliJ related
 *.iml
 *.ipr
@@ -56,7 +68,9 @@
 ./flutter_backdrop_4/idea/
 ./flutter_keep_alive_5/idea/
 ./flutter_search_bar_6/idea/
+./flutter_gesturedetector_7/idea/
 
+./flutter_cnimationcontroller_11/idea/
 # The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
 # is commented out by default.
@@ -119,6 +133,22 @@
 ./flutter_search_bar_6/pub-cache/
 ./flutter_search_bar_6/pub/
 ./flutter_search_bar_6/build/
+
+./flutter_gesturedetector_7/dart_tool/
+./flutter_gesturedetector_7/flutter-plugins
+./flutter_gesturedetector_7/flutter-plugins-dependencies
+./flutter_gesturedetector_7/packages
+./flutter_gesturedetector_7/pub-cache/
+./flutter_gesturedetector_7/pub/
+./flutter_gesturedetector_7/build/
+
+./flutter_cnimationcontroller_11/dart_tool/
+./flutter_cnimationcontroller_11/flutter-plugins
+./flutter_cnimationcontroller_11/flutter-plugins-dependencies
+./flutter_cnimationcontroller_11/packages
+./flutter_cnimationcontroller_11/pub-cache/
+./flutter_cnimationcontroller_11/pub/
+./flutter_cnimationcontroller_11/build/
 # Web related
 lib/generated_plugin_registrant.dart
 ./bottom_navigation_widget_1/lib/generated_plugin_registrant.dart
@@ -127,6 +157,8 @@ lib/generated_plugin_registrant.dart
 ./flutter_backdrop_4/lib/generated_plugin_registrant.dart
 ./flutter_keep_alive_5/lib/generated_plugin_registrant.dart
 ./flutter_search_bar_6/lib/generated_plugin_registrant.dart
+./flutter_gesturedetector_7/lib/generated_plugin_registrant.dart
+./flutter_cnimationcontroller_11/lib/generated_plugin_registrant.dart
 
 # Symbolication related
 app.*.symbols
